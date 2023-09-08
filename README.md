@@ -16,3 +16,5 @@ Add line from devbox ssh
 # devbox:container lines go here
 Add a line from devbox:container
 
+# github:devcontainer lines go here
+Add a line when vs code cloned the repository to a docker volume and opened in a container
